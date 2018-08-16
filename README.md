@@ -8,3 +8,5 @@ As per the new Working copy of MASTER BRANCH is NewBranch , I have opened one fi
 This is the new comments adding in this branch New_2ndBranch. 12345######################
 Now adding 6789012#######################################################################
 Now I have to merge this README.md file with  MASTER BRANCH.
+Editing now README.md on Master Branch .. will check that if this 
+xtra line is able to merge or not...1234@@@@@@########!!!!!!!
